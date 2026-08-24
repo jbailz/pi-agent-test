@@ -18,6 +18,9 @@ node_modules/
 dist/
 build/
 coverage/
+target/
+web/space_invaders.wasm
+web/mq_js_bundle.js
 
 # Environment files
 .env
